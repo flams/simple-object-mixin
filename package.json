@@ -15,10 +15,8 @@
   ],
   "author": "Olivier Scherrer <pode.fr@gmail.com>",
   "keywords": [
-    "loop",
-    "iterate",
-    "object",
-    "array"
+    "mixin",
+    "object"
   ],
   "repository": {
     "type": "git",
