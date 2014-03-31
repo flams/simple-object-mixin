@@ -1,4 +1,4 @@
-Simple mixin
+Simple object mixin
 =============
 
 Simple mixin is the simplest implementation for a mixin, copying an object's properties onto another. It has an option for specifying if duplicated properties can be replaced or not in the target object.
@@ -9,7 +9,7 @@ Installation
 ============
 
 ```bash
-npm install simple-mixin
+npm install simple-object-mixin
 ```
 
 How to use
@@ -19,7 +19,7 @@ Require simple-mixin:
 
 
 ```js
-var mixin = require("simple-mixin");
+var mixin = require("simple-object-mixin");
 ```
 
 Use it with an array:

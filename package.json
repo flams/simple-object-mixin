@@ -1,12 +1,12 @@
 {
-  "name": "simple-mixin",
+  "name": "simple-object-mixin",
   "description": "Simple mixin is the simplest implementation for a mixin, copying an object's properties onto another",
   "version": "0.0.1",
-  "homepage": "https://github.com/flams/simple-mixin",
+  "homepage": "https://github.com/flams/simple-object-mixin",
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://raw.github.com/flams/simple-mixin/master/LICENSE"
+      "url": "https://raw.github.com/flams/simple-object-mixin/master/LICENSE"
     }
   ],
   "files": [
@@ -20,10 +20,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:flams/simple-mixin.git"
+    "url": "git@github.com:flams/simple-object-mixin.git"
   },
   "bugs": {
-    "url": "https://github.com/flams/simple-mixin/issues"
+    "url": "https://github.com/flams/simple-object-mixin/issues"
   },
   "scripts": {
     "test": "mocha"
