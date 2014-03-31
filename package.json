@@ -1,0 +1,41 @@
+{
+  "name": "simple-mixin",
+  "description": "Simple mixin is the simplest implementation for a mixin, copying an object's properties onto another",
+  "version": "0.0.1",
+  "homepage": "https://github.com/flams/simple-mixin",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.github.com/flams/simple-mixin/master/LICENSE"
+    }
+  ],
+  "files": [
+    "LICENSE",
+    "index.js"
+  ],
+  "author": "Olivier Scherrer <pode.fr@gmail.com>",
+  "keywords": [
+    "loop",
+    "iterate",
+    "object",
+    "array"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:flams/simple-mixin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/flams/simple-mixin/issues"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "main": "index.js",
+  "devDependencies": {
+    "chai": "~1.9.1",
+    "mocha": "~1.18.2"
+  },
+  "dependencies": {
+    "simple-loop": "0.0.2"
+  }
+}
