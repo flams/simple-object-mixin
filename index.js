@@ -1,5 +1,5 @@
 /**
-* @license simple-mixin https://github.com/flams/simple-object-mixin
+* @license simple-object-mixin https://github.com/flams/simple-object-mixin
 *
 * The MIT License (MIT)
 *
